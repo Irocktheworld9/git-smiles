@@ -1,2 +1,3 @@
 # git-smiles
-My First Github Repository
+I am Vivek Kumar.
+Studying at Pondicherry University.
